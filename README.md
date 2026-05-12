@@ -1,7 +1,7 @@
 # ChatGPT – AI Assistant Desktop App for Mac
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/64706/l/phpgpqitp-logo.png?v=1715754012" width="200" alt="ChatGPT icon"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/3840px-ChatGPT-Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="200" alt="ChatGPT icon"/>
 </p>
 
 <p align="center">
